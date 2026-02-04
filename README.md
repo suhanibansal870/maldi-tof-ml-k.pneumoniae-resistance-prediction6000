@@ -1,1 +1,1 @@
-# maldi-tof-ml-k.pneumoniae-resistance-prediction6000
+# maldi-tof-ml-k.pneumoniae-resistance-prediction
