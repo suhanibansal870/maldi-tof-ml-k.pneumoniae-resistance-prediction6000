@@ -9,7 +9,7 @@ from statistics import mode
 from constants import ALL_COLUMNS
 
 # constants
-JSONS = ["Sample_1.json", "Sample_2.json", "Sample_3.json","Sample_4.json","Sample_5.json"]
+JSONS = ["Sample_With6000_1.json", "Sample_With6000_2.json", "Sample_With6000_3.json","Sample_With6000_4.jsonn","Sample_With6000_5.json"]
 
 IMAGE_ADDRESS = "k.pneumoniae.jpg"
 
